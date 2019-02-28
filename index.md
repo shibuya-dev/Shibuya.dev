@@ -1,5 +1,5 @@
 ---
-image: /assets/image/ogp.jpg
+image: /assets/images/ogp.jpg
 ---
 
 ## Shibuya.dev
