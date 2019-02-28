@@ -1,3 +1,8 @@
+---
+image: /assets/images/ogp.jpg
+title: Shibuya.dev: Hello, world!
+---
+
 ## Shibuya.dev
 
 Haven't planned anything yet but it would be great to host something for devs in Shibuya.
