@@ -1,6 +1,5 @@
 ---
 image: /assets/images/ogp.jpg
-title: Shibuya.dev: Hello, world!
 ---
 
 ## Shibuya.dev
